@@ -16,7 +16,7 @@ const newAddress: Address = {
   zip: "67890",
 };
 
-const john = {
+const john: Person = {
   name: "John Doe",
   age: 30,
   address: address,
